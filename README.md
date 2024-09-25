@@ -29,4 +29,4 @@ This project presents an innovative approach to educating and inspiring action o
 
 
 ## **Contact**
-For questions or suggestions, please reach out to the project team lead at siddhi.atworkgmail.com
+For questions or suggestions, please reach out to the project team lead at siddhi.atwork@gmail.com
